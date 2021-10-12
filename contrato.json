@@ -1,0 +1,20 @@
+POST: /v1/checkout
+
+{
+    "firstName",
+    "lastName",
+    "username",
+    "email",
+    "address",
+    "complement",
+    "country",
+    "state",
+    "cep",
+    "saveAddress",
+    "saveInfo",
+    "paymentMethod",
+    "cardName",
+    "cardNumber",
+    "cardDate",
+    "cardCvv"
+}
