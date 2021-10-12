@@ -18,3 +18,7 @@ POST: /v1/checkout
     "cardDate",
     "cardCvv"
 }
+
+{
+    "code"
+}
